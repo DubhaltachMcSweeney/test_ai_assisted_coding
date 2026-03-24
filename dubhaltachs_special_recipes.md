@@ -1,2 +1,2 @@
 ## The worlds best schnitzel
-Use some cream cheese in the bread crumbs, use clarified butter. Ideal meet is veal. Serve with some french fries and mustard mayonaise, some pickles and a little bit of parsely ... chef kiss.
+Use some cream cheese in the bread crumbs, use clarified butter. Ideal meat is veal. Serve with french fries and mustard mayonaise, some pickles and a little bit of parsely ... chef kiss.
