@@ -16,3 +16,6 @@ Yoo Mark, you awake g?
 Second again ole ole
 
 Fuc u Nasko i hope u get relegated
+
+Broooo noo. You are still winning the league, but it will be so funny if you bottle it and we stay up. 
+Kaloyan is coming to get his chips
