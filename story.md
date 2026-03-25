@@ -13,4 +13,6 @@ Real g's move in silence like lasagna
 
 Yoo Mark, you awake g?
 
-Second again ole ole 
+Second again ole ole
+
+Fuc u Nasko i hope u get relegated
