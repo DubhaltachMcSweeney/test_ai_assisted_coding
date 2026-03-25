@@ -12,3 +12,5 @@ Nasko were u pushing and pulling all night?
 Real g's move in silence like lasagna
 
 Yoo Mark, you awake g?
+
+Second again ole ole 
