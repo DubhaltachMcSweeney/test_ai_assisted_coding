@@ -21,7 +21,6 @@ This project also explores the role of machine learning in handwriting analysis.
 - Exploring a simple method to generate a personalized handwriting-style font or reusable character set.
 - Testing the system on known datasets and new user-provided samples.
 - Writing unit tests for different image sizes, formats, and basic processing functions.
-- 
 
 ### Out of Scope / Non-Goals
 
@@ -30,7 +29,7 @@ This project also explores the role of machine learning in handwriting analysis.
 - Real-time recognition for large-scale scanned documents.
 - Fully automatic font generation with no user correction.
 - Advanced typography features such as kerning, ligatures, or professional font design standards.
-- 
+
 
 ## 3. Objectives
 
@@ -83,7 +82,8 @@ This project also explores the role of machine learning in handwriting analysis.
 
 ## 6. Risks & Mitigation Strategies
 
-- **Risk:** Poor handwriting recognition accuracy.  
-  **Mitigation:** Start with a constrained character set (e.g. digits or uppercase letters), use preprocessing carefully, and include manual correction.
+- Risk: Poor handwriting recognition accuracy.  
+  Mitigation:Start with a constrained character set (e.g. digits or uppercase letters), use preprocessing carefully, and include manual correction.
 
--
+-- Risk: Input images vary too much in quality and format.  
+  Mitigation: Define accepted input requirements and implement preprocessing plus unit tests for multiple image sizes and formats.
