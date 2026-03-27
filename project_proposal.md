@@ -13,7 +13,7 @@ This project also explores the role of machine learning in handwriting analysis.
 - Uploading images of handwritten characters or words.
 - Preprocessing handwriting images (e.g. grayscale conversion, resizing, thresholding, segmentation).
 - Recognising handwritten characters using either:
-  - a simple OCR-based approach, or
+  - a simple OCR-based approach (e.g. pretrained tools such as Tesseract), or
   - a neural network / machine learning model.
 - Allowing users to label or correct characters manually.
 - Building an interactive feedback loop where corrections can be used to improve future recognition.
@@ -43,6 +43,7 @@ This project also explores the role of machine learning in handwriting analysis.
 - Evaluate how preprocessing affects recognition accuracy.
 - Measure the benefit of user correction in an interactive feedback loop.
 - Demonstrate that the system can generalise beyond a fixed dataset such as MNIST, while acknowledging limitations.
+- Compare the performance of pretrained OCR tools (e.g. Tesseract) with custom-trained machine learning models.
 
 ### Operational Performance Objectives
 
